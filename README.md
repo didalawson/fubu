@@ -1,2 +1,3 @@
 # fubu
-instant messaging app 
+instant messaging app  built with python/ django
+
